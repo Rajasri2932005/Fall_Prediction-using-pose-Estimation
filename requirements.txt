@@ -1,0 +1,11 @@
+opencv-python
+mediapipe
+numpy
+pandas
+scikit-learn
+joblib
+matplotlib
+flask
+flask-cors
+waitress
+winotify; platform_system == "Windows"
